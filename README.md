@@ -1,15 +1,15 @@
 # estructura-poblacion
-**Documentación del dataset "Estructura de la población".
+[Documentación del dataset "Estructura de la población".]
 
 Proyecciones de población por sexo y grupos quinquenales de edad. Ciudad Autónoma de Buenos Aires. Años 2010-2040
 
- Área Temática: Población
+ [Área Temática:] Población
  
- Tema: Estructura de la Población
+ [Tema:] Estructura de la Población
  
- SubTema: Sexo y Edad
+ [SubTema:] Sexo y Edad
  
- Año Desde: 2010
+ [Año Desde:] 2010
  
  Año Hasta: 2040
  
