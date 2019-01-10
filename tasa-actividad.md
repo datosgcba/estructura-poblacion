@@ -1,7 +1,6 @@
-## Dataset Estructura de la Población
-**Documentación del recurso "Proyecciones de la población".**
+## Recurso: Tasa de Actividad
 
-Proyecciones de población por sexo y grupos quinquenales de edad. Ciudad Autónoma de Buenos Aires. Años 2010-2040
+Definición conceptual: Indica qué parte de la población de 10 años y más se encuentra participando activamente (ocupados y desocupados) en el mercado de trabajo y permite separarla en dos subconjuntos: la población económicamente activa y la población inactiva
 
  Área Temática: Población
  
