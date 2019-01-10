@@ -3,7 +3,7 @@
 
 Documentación de los indicadores del [Sistema de Indicadores de Género de Buenos Aires](https://www.estadisticaciudad.gob.ar/eyc/?page_id=74588) que se encuentran publicados en el portal de datos abiertos [Buenos Aires Data](http://data.buenosaires.gob.ar)
 
-## Listado de Recursos
+## Datasets y Recursos
 
 ### Autonomía Económica
 
