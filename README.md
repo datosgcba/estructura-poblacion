@@ -1,5 +1,5 @@
 # Metadatos SIGBA
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://www.estadisticaciudad.gob.ar/si/genero/confort/img/img-logo.png "Sistema de Indicadores de Género")
 
 Documentación de los indicadores del [Sistema de Indicadores de Género de Buenos Aires](https://www.estadisticaciudad.gob.ar/eyc/?page_id=74588)
 
