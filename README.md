@@ -6,3 +6,5 @@ Documentación de los indicadores del [Sistema de Indicadores de Género de Buen
 ## Listado de Recursos
 
 [Tasa de Actividad](https://github.com/datosgcba/metadatos-sigba/blob/master/tasa-actividad.md)
+
+[Tasa de Empleo]
