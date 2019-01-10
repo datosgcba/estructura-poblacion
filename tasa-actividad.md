@@ -6,5 +6,9 @@
 
 **Unidad de medida:** Porcentaje
 
+**Universo:**	Población residente en la CABA
 
+**Cobertura:** 2003 en adelante
+
+**Fuente:** Dirección General de Estadística y Censos (Ministerio de Hacienda GCBA). Encuesta Anual de Hogares (EAH).
 
