@@ -13,5 +13,12 @@ Documentación de los indicadores del [Sistema de Indicadores de Género de Buen
 
 ### Autonomía Física
 
+[Tasa de fecundidad por grupo de edad](https://github.com/datosgcba/metadatos-sigba/blob/master/tasa-fecundidad-por-grupo-de-edad.md)
+
+[Tasa bruta de reproducción](https://github.com/datosgcba/metadatos-sigba/blob/master/tasa-bruta-reproduccion.md)
+
 ### Autonomía en la toma de decisiones
 
+[Porcentaje de Legisladoras mujeres en la Ciudad de Buenos Aires](https://github.com/datosgcba/metadatos-sigba/blob/master/porcentaje-legisladoras-caba.md)
+
+[Porcentaje de Comisiones de la Legislatura presididas por mujeres](https://github.com/datosgcba/metadatos-sigba/blob/master/comisiones-legislatura-presididas-mujeres.md)
