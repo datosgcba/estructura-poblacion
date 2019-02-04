@@ -1,7 +1,7 @@
 # Metadatos Indicadores de la Ciudad
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzFrXS4toF3sQlR121HL-2az-X_gSOjVRS5uHSxHcji8Tamey "Dirección General de Estadística y Censos")
 
-Documentación del [Banco de Datos](https://www.estadisticaciudad.gob.ar/eyc/?page_id=74588) que se encuentran publicados en el portal de datos abiertos [Buenos Aires Data](http://data.buenosaires.gob.ar)
+Documentación del [Banco de Datos](https://www.estadisticaciudad.gob.ar/eyc/?page_id=35782) que se encuentran publicados en el portal de datos abiertos [Buenos Aires Data](http://data.buenosaires.gob.ar)
 
 ## Datasets y Recursos
 
