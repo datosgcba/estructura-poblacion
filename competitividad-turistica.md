@@ -1,4 +1,4 @@
-## Competitividad turística
+## Índice de competitividad real turística multilateral y bilateral
 
 Nota: el índice de competitividad permite seguir la evolución global del poder adquisitivo de las divisas de los principales orígenes del turismo no residente en la Ciudad de Buenos Aires. El tipo de cambio multilateral se calcula ponderando el tipo de cambio real de los países por su participación en el gasto total desembolsado por los turistas en la Ciudad de Buenos Aires.											
 											
