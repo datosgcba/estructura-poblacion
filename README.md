@@ -9,18 +9,19 @@ Documentación de los recursos del [Banco de Datos](https://www.estadisticaciuda
 
 [Índice de competitividad real turística multilateral y bilateral](https://github.com/datosgcba/metadatos-indicadores/blob/master/competitividad-turistica.md)
 
-### Autonomía Física
+### Cruceros
+
+[Índice de competitividad real turística multilateral y bilateral](https://github.com/datosgcba/metadatos-indicadores/blob/master/cruceros.md)
+
+## Otros
+
+[Tasa de Empleo](https://github.com/datosgcba/metadatos-sigba/blob/master/tasa-empleo.md)
 
 [Tasa de fecundidad por grupo de edad](https://github.com/datosgcba/metadatos-sigba/blob/master/tasa-fecundidad-por-grupo-de-edad.md)
 
 [Tasa bruta de reproducción](https://github.com/datosgcba/metadatos-sigba/blob/master/tasa-bruta-reproduccion.md)
 
-### Autonomía en la toma de decisiones
-
 [Porcentaje de Legisladoras mujeres en la Ciudad de Buenos Aires](https://github.com/datosgcba/metadatos-sigba/blob/master/porcentaje-legisladoras-caba.md)
 
 [Porcentaje de Comisiones de la Legislatura presididas por mujeres](https://github.com/datosgcba/metadatos-sigba/blob/master/comisiones-legislatura-presididas-mujeres.md)
 
-## Otros
-
-[Tasa de Empleo](https://github.com/datosgcba/metadatos-sigba/blob/master/tasa-empleo.md)
