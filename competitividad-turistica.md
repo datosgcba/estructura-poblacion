@@ -12,9 +12,40 @@ Los datos fueron recalculados teniendo en cuenta la evolución del Índice de Pr
 
 **Variable:** Índice de competitividad real turística bilateral
 
-*Definición operativa:* Corresponde al tipo de cambio real bilateral, expresado en número indice, calculado como el producto entre el tipo de cambio nominal bilateral y la razón entre el índice de precios al consumidor del país extranjero y el índice de precios al consumidor local. 
+ - *Definición operativa:* Corresponde al tipo de cambio real bilateral, expresado en número indice, calculado como el producto entre el tipo de cambio nominal bilateral y la razón entre el índice de precios al consumidor del país extranjero y el índice de precios al consumidor local. 
+
+ - *Unidad de medida:* Índice Base diciembre 2001=100
+ 
+ - *Método de cálculo (fórmula):* 
+ 
+Índice = Ht/H0*100
+
+Ht = Et * PEt/PNt
+
+Donde
+
+E= tipo de cambio nominal
+PE= Índice de precios al consumidor del país extranjero
+PN=Índice de precios al consumidor local
+
+ **Variable:** Índice de competitividad real turística multilateral
+ 
+  - *Definición operativa:* Corresponde a la sumatoria, expresada en número índice, de los tipos de cambio reales bilaterales considerados en el análisis, cada uno ponderado por la participación del gasto de los turistas de ese origen en el desembolso total realizado por turistas no residentes en la Ciudad, en un momento dado.   
+  
+ - *Unidad de medida:* Índice Base diciembre 2001=100
+ 
+ - *Método de cálculo (fórmula):* 
+
+Índice = Ht/H0*100
+
+Ht = ∑ (Et * PEt/PNt)* µ0
+
+Donde
+
+E= tipo de cambio nominal
+PE= Índice de precios al consumidor del país extranjero
+PN=Índice de precios al consumidor local
+µ0=  factor de ponderación fijo"
 
 
-
-**
 
