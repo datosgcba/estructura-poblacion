@@ -11,7 +11,7 @@ Documentación de los recursos del [Banco de Datos](https://www.estadisticaciuda
 
 ### Cruceros
 
-[Índice de competitividad real turística multilateral y bilateral](https://github.com/datosgcba/metadatos-indicadores/blob/master/cruceros.md)
+[Recaladas de cruceros](https://github.com/datosgcba/metadatos-indicadores/blob/master/cruceros.md)
 
 ## Otros
 
